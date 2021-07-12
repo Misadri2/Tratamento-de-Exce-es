@@ -1,0 +1,13 @@
+C:\Users\MAON\Projetos\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+C:\Users\MAON\Projetos\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+C:\Users\MAON\Projetos\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+C:\Users\MAON\Projetos\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+C:\Users\MAON\Projetos\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+C:\Users\MAON\Projetos\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+C:\Users\MAON\Projetos\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
